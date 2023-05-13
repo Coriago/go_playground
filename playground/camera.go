@@ -1,8 +1,6 @@
-package main
+package camera
 
-import (
-	"fmt"
-)
+import "fmt"
 
 func main() {
 	fmt.Println("Hello, world.")
