@@ -5,5 +5,6 @@ import (
 )
 
 func main() {
+	camera.printmsg()
 	fmt.Println("Hello, world.")
 }

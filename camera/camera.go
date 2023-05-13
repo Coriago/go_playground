@@ -2,6 +2,6 @@ package camera
 
 import "fmt"
 
-func main() {
+func printmsg() {
 	fmt.Println("Hello, world.")
 }
